@@ -4,7 +4,7 @@ This is a fun project that serves as an easy eContactCard. It is a static site t
 **Link to project:** https://luisejaar.github.io/eContactCard/
 
 <p align="center">
-<img align="center" src="/media/basicinfo.jpg" alt="Image of Site" width="250" height="500" />
+<img align="center" src="/media/basicinfo.JPG" alt="Image of Site" width="250" height="500" />
 </p>
 
 ## How It's Made:
