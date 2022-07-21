@@ -1,7 +1,7 @@
 # eContactCard
 This is a fun project that serves as an easy eContactCard. It is a static site that I created from scratch to practice Bootstrap and React.
 
-**Link to project:** https://frolicking-banoffee-945cb8.netlify.app/
+**Link to project:** https://luisecard.netlify.app/
 
 <p align="center">
 <img align="center" src="/media/basicinfo.JPG" alt="Image of Site" width="250" height="500" />
